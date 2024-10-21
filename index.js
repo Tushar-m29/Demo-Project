@@ -9,3 +9,7 @@ function mult(x,y){
 function modulo(x,y){
     return a%b;
 }
+
+function div(x,y){
+    return a/b;
+}
