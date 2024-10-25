@@ -7,7 +7,7 @@ function sub(x,y){
 }
 
 function mult(x,y){
-    return a*b;
+    return x*y;
 }
 
 function modulo(x,y){
