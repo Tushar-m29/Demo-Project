@@ -11,7 +11,7 @@ function mult(x,y){
 }
 
 function modulo(x,y){
-    return a%b;
+    return x%y;
 }
 
 function div(x,y){
