@@ -15,5 +15,5 @@ function modulo(x,y){
 }
 
 function div(x,y){
-    return a/b;
+    return x/y;
 }
